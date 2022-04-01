@@ -21,7 +21,7 @@ Important, especially if the browser looks like below most of the times!
 
 ---
 ![]({{site.baseurl}}/images/a_100_reason.png)
----
+
 
 Aim is to also add original content, lets see where it goes!:grin:
 
