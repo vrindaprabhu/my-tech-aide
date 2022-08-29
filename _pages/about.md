@@ -9,9 +9,9 @@ permalink: /about/
 
 Greetings!
 
-All the content in these pages is filled up by me - Vrinda Prabhu. I live in Bengaluru,India and fortunate to be involved in creating stuff using machine learning for a living.:slightly_smiling_face:
+All the content in these pages is filled up by me - Vrinda Prabhu. I live in Bengaluru, India and am fortunate to be involved in creating stuff using machine learning for a living.:slightly_smiling_face:
 
-When I leave my ML sphere, I usually binge watch gameplays _(yup)_, indulge in vegetarian delicacies or strum random stuff on my guitar _(one more journey having many pit stops and re-starts)_. 
+When I leave my ML sphere, I usually binge-watch gameplays _(yup)_, indulge in vegetarian delicacies or strum random stuff on my guitar _(one more journey having many pit stops and re-starts)_. 
 
 ## Why this site
 
